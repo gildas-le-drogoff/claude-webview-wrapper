@@ -1,0 +1,6 @@
+
+<resources>
+    <string name="app_name" translatable="false">Claude</string>
+    <string name="error_copy">Please select and copy text manually</string>
+    <string name="url_copied">URL copied</string>
+</resources>
